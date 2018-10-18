@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="the-hacking-project-6th-session---week-2">The Hacking Project: 6th Session - Week 2</h2>
 <ul>
 <li>
